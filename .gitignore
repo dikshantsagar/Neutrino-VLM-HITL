@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyTorch checkpoints and large model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+adapters/
+*adapter_model*
+
+# Weights & Biases
+wandb/
+.wandb
+
+# Experiment predictions and evaluation dumps
+predictions/
+evaluation_results*/
+hard_samples_results/
+train_evaluation_results/
+attention_outputs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
