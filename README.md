@@ -87,7 +87,7 @@ During fine-tuning with explanations, ground-truth descriptions might contain me
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/Neutrino-VLM-HITL.git
+git clone https://github.com/dikshantsagar/Neutrino-VLM-HITL.git
 cd Neutrino-VLM-HITL
 
 # Create and activate virtual environment
